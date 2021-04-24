@@ -718,7 +718,7 @@ a#btn_one:hover::before {
 }
 
 .full_website .team_section .team_container .team_box .team_box_top .team_hover {
-  background: rgba(0, 0, 0, 0.30);
+  background: rgba(0, 0, 0, 1);
   position: absolute;
   width: 100%;
   bottom: -100%;
